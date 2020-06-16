@@ -85,6 +85,7 @@ O projeto é voltado para adaptação da aplicação da Rocketseat e estudo das 
 
 ![100](https://user-images.githubusercontent.com/48495838/84312343-29260880-ab3b-11ea-81eb-006bd0bb1b16.png)
 
-<br><br><br>
+<br><br>
+<br>
 
 Renan Borba.
