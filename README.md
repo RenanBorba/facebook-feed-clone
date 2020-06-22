@@ -74,8 +74,7 @@ O projeto é voltado para adaptação da aplicação da Rocketseat e estudo das 
     </ul>
 </ul>
 
-<br><br>
-<br>
+<br><br><br>
 
 ## :mega: Segue abaixo a principal interface:
 
