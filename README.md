@@ -8,13 +8,9 @@
 
 <div align="center">
 
-[![Build Status](https://img.shields.io/github/stars/RenanBorba/react-web-facebook-feed.svg)](https://github.com/RenanBorba/react-web-facebook-feed) [![Build Status](https://img.shields.io/github/forks/RenanBorba/react-web-facebook-feed.svg)](https://github.com/RenanBorba/react-web-facebook-feed)
-
-</div>
+[![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/react-web-facebook-feed.svg)](https://github.com/RenanBorba/react-web-facebook-feed) [![Build Status](https://img.shields.io/github/forks/RenanBorba/react-web-facebook-feed.svg)](https://github.com/RenanBorba/react-web-facebook-feed) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 <br>
-
-<div align="center">
 
 ![fb](https://user-images.githubusercontent.com/48495838/84807664-f61dc200-afdd-11ea-8d8a-f98ec1bc7366.png)
 
@@ -83,7 +79,3 @@ O projeto é voltado para adaptação da aplicação da Rocketseat e estudo das 
 ## Interface principal
 
 ![100](https://user-images.githubusercontent.com/48495838/84312343-29260880-ab3b-11ea-81eb-006bd0bb1b16.png)
-
-<br><br><br>
-
-Renan Borba.
