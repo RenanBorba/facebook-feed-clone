@@ -73,7 +73,7 @@ O projeto é voltado para adaptação da aplicação da Rocketseat e estudo das 
 <br><br>
 <br>
 
-## :mega: Segue abaixo a principal interface:
+## :mega: ⬇ Abaixo a principal interface:
 
 <br><br><br>
 
