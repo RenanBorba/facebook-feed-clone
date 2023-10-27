@@ -19,7 +19,7 @@
 <br>
 
 Aplicação Web em ReactJS para clone estático do feed do Facebook.<br>
-O projeto é voltado para adaptação da aplicação da Rocketseat e estudo das funcionalidades de React Function Components e React Hooks (useState).
+O projeto é voltado para estudo das funcionalidades de React Function Components e React Hooks (useState).
 
 <br><br>
 
