@@ -12,7 +12,7 @@
 
 <br>
 
-![fb](https://user-images.githubusercontent.com/48495838/84807664-f61dc200-afdd-11ea-8d8a-f98ec1bc7366.png)
+![facebook-lg](https://github.com/RenanBorba/react-web-facebook-feed/assets/48495838/cd9ac53d-9163-4fdf-a335-aa70dad7f844)
 
 </div>
 
