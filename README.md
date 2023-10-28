@@ -18,8 +18,7 @@
 
 <br>
 
-Aplicação Web em ReactJS para clone estático do feed do Facebook.<br>
-O projeto é voltado para estudo das funcionalidades de React Function Components e React Hooks (useState).
+Aplicação Web em ReactJS para clone estático do feed do Facebook. O projeto é voltado para estudo das funcionalidades de React Function Components e React Hooks (useState).
 
 <br><br>
 
